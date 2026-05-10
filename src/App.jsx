@@ -1,3 +1,9 @@
-export default function App() {
-  return <h1>YA FUNCIONA 🚀</h1>;
+function App() {
+  return (
+    <div>
+      <h1>Zarela Studio</h1>
+    </div>
+  );
 }
+
+export default App;
