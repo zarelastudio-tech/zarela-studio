@@ -1,2 +1,3 @@
-import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
+export default function App() {
+  return <h1>YA FUNCIONA 🚀</h1>;
+}
